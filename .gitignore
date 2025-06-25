@@ -3,6 +3,7 @@
 
 # Build dir yo
 build/
+progress.txt
 
 ### C++ ###
 # Prerequisites

@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.10)
-project(cdb)
+project(xdb)
 
 set(CMAKE_CXX_STANDARD 14)
 
