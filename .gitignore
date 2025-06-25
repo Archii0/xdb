@@ -4,6 +4,8 @@
 # Build dir yo
 build/
 progress.txt
+examples/
+.vscode/
 
 ### C++ ###
 # Prerequisites
