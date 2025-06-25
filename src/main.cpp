@@ -8,6 +8,7 @@
 #include <iostream>
 #include <sstream>
 #include <vector>
+#include <array>
 
 #include "debugger.h"
 #include "linenoise.h"
